@@ -1,7 +1,7 @@
-THIS PROJECT IS ABANDONED
-=========================
+Fork
+====
 
-This project is effectively abandoned. If you want to take ownership or contribute to it, contact @everzet.
+This is a fork of Behat/CommonContexts
 
 Extra Contexts for Behat
 ========================
